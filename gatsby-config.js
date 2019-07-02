@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `Nutrio`,
+    description: `Kick off your wellbeing by extracting nutrient from the food. Nutritious diet is a great way to start enjoying your life.`,
+    author: `@AurimasDarguzis`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
